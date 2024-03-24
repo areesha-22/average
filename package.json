@@ -1,0 +1,26 @@
+{
+  "name": "average",
+  "version": "1.0.0",
+  "description": "users easy to take average",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areesha-22/average.git"
+  },
+  "author": "AREESHA ABDULRAHIM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/areesha-22/average/issues"
+  },
+  "homepage": "https://github.com/areesha-22/average#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
